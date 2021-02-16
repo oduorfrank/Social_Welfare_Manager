@@ -2,7 +2,8 @@ import tkinter
 from tkinter import * 
 
 win = Tk()
-win.geometry('700x300')
+win.geometry('900x300')
+win.title("Social Welfare")
 
 # Labels for the data defined here
 date = Label(win, text = 'Date: ')
